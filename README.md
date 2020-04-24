@@ -4,8 +4,12 @@ This repository contains packages of graphic materials such as designs, animatio
 They are licensed under the **Creative Commons BY-SA License 4.0**. Please read each license file and preserve its terms of use.
 
 This repository contains following packages:
-* **Gregor Gouda – A virtual assistant (designs and animations)**.
-  Gregor is designed to be a teacher figure and a friendly colleague, who supports and motivates his target group. He is a (virtual) assistant.
+
+## **Gregor Gouda – A virtual assistant (designs and animations)**.
+Gregor is designed to be a teacher figure and a friendly colleague, who supports and motivates his target group. He is a (virtual) assistant.
+
+<img src="images/gregor_icon.png" width="200px">
+
   * **Design Files**
 	  * Gregor Fullbody
 	  * Gregor in Work Clothes and Shorts (front & side)
