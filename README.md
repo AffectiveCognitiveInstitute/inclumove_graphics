@@ -20,7 +20,7 @@ They are licensed under the **Creative Commons BY-SA License 4.0**. Please read 
 Release Date: 27.04.2020 - [LICENSE](LICENSE-GREGOR-GOUDA.md) - Size: 502 MB - Download here  
 Gregor is designed to be a teacher figure and a friendly colleague, who supports and motivates his target group. He is a (virtual) assistant.
 
-<img src="images/gregor_icon.png" width="200px">
+<img src="images/gregor-gouda/gregor_icon.png" width="200px">
 
 
 ---
