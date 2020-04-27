@@ -7,7 +7,7 @@ They are licensed under the **Creative Commons BY-SA License 4.0**. Please read 
 
 ## How to use it
 1. Read our [wiki](../../wiki) to get more information about the content of our packages and licenses. 
-2. Ensure you've read the license of the package you want to use carefully and give attributions to the creators. 
+2. Read the license of the package you want to use carefully and give attributions to the creators. 
 3. Download the package and use it for your project. 
 4. (Optional) Contact us and tell us what you created with our material. We are curious!
 
