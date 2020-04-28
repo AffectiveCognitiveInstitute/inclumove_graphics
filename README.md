@@ -18,6 +18,7 @@ They are licensed under the **Creative Commons BY-SA License 4.0**. Please read 
 ***
 ### Gregor Gouda – A virtual assistant (designs and animations)
 Release Date: 27.04.2020 - [LICENSE](LICENSE-GREGOR-GOUDA.md) - Size: 502 MB - [View Here](images/gregor-gouda) - Download prepackaged versions [in the Release section](https://github.com/AffectiveCognitiveInstitute/inclumove_graphics/releases)
+
 Gregor is designed to be a teacher figure and a friendly colleague, who supports and motivates his target group. He is a (virtual) assistant.
 
 <img src="images/gregor-gouda/gregor_icon.png" width="200px">
